@@ -1,4 +1,5 @@
 # 📈 Data Science Final Project: 台灣蔬菜價格與天氣資料分析
+這是舊的檔案，新的在：<https://github.com/1132-NCCU-DataScience/finalproject-group-6.git>
 
 ---
 
